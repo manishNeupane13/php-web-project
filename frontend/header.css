@@ -1,0 +1,27 @@
+.search
+{
+padding: 10px;
+
+}
+.searchbar
+{
+    list-style-type: none;
+}
+.searchbar input{
+    padding: 5px;
+    width: 50%;
+    
+}
+.searchbar li
+{
+    display: flex;
+    flex-direction: row;
+}
+.header__right {
+    display: flex;
+    justify-content: flex-end;
+    height: 80px;
+    align-items: center;
+    width: max-content;
+}
+
