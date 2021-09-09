@@ -1,13 +1,13 @@
 <?php
-        if (isset($_SESSION['ADMIN_LOGIN'])&& $_SESSION['ADMIN_LOGIN']!='')
-        {
+        // if (isset($_SESSION['ADMIN_LOGIN'])&& $_SESSION['ADMIN_LOGIN']!='')
+        // {
 
-        }
-        else
-        {
-            header('location:signin.php');
-            die();
-        }
+        // }
+        // else
+        // {
+        //     header('location:signin.php');
+        //     die();
+        // }
         ?>
 
 <!DOCTYPE html>
